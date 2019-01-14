@@ -16,6 +16,7 @@ Bug Fixes:
 
 UI:
 - Removed the measurements table interface as it is incomplete and currently not being used for the XNAT viewer.
+- Removed hyperlink from OHIF-XNAT icon. This was just a relic from the core OHIF viewer.
 
 
 **1.8.0**
