@@ -14,6 +14,9 @@ Up to date viewer jars are available in the dist directory.
 Bug Fixes:
 - Fixed automation which broke with recent XNAT package updates. (Thanks @kelseym !)
 
+UI:
+- Removed the measurements table interface as it is incomplete and currently not being used for the XNAT viewer.
+
 
 **1.8.0**
 
