@@ -9,6 +9,12 @@ This plugin depends on the xnat-roi plugin for 1.7 (current beta release include
 
 Up to date viewer jars are available in the dist directory.
 
+**1.8.1**
+
+Bug Fixes:
+- Fixed automation which broke with recent XNAT package updates. (Thanks @kelseym !)
+
+
 **1.8.0**
 
 Features:
