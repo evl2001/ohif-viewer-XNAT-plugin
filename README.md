@@ -16,6 +16,7 @@ Bug Fixes:
 - Fixed import of RTSTRUCTs, they were previously 0.5 pixels off center, as I wished to match Horos/OsiriX, which also has this error. They are now displayed in the correct position.
 - Transpiled JSON fetching code for IE11 compatibility."
 - Removed Snapshot description from help menu, since it is currently disabled in the viewer.
+- View Session button now correctly appears for guests.
 
 UI:
 - Removed the measurements table interface as it is incomplete and currently not being used for the XNAT viewer.
