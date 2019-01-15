@@ -15,6 +15,7 @@ Bug Fixes:
 - Fixed automation which broke with recent XNAT package updates. (Thanks @kelseym !)
 - Fixed import of RTSTRUCTs, they were previously 0.5 pixels off center, as I wished to match Horos/OsiriX, which also has this error. They are now displayed in the correct position.
 - Transpiled JSON fetching code for IE11 compatibility."
+- Removed Snapshot description from help menu, since it is currently disabled in the viewer.
 
 UI:
 - Removed the measurements table interface as it is incomplete and currently not being used for the XNAT viewer.
