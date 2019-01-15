@@ -17,6 +17,7 @@ Bug Fixes:
 - Transpiled JSON fetching code for IE11 compatibility."
 - Removed Snapshot description from help menu, since it is currently disabled in the viewer.
 - View Session button now correctly appears for guests.
+- Transitioned to meteor-build-client-fixed2, to hopefully deal with IE11 issues.
 
 UI:
 - Removed the measurements table interface as it is incomplete and currently not being used for the XNAT viewer.
