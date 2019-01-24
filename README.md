@@ -9,7 +9,7 @@ This plugin depends on the xnat-roi plugin for 1.7 (current beta release include
 
 Up to date viewer jars are available in the dist directory.
 
-**1.8.1**
+**1.8.1j**
 
 Bug Fixes:
 - Fixed automation which broke with recent XNAT package updates. (Thanks @kelseym !)
@@ -17,6 +17,8 @@ Bug Fixes:
 - Transpiled JSON fetching code for IE11 compatibility."
 - Removed Snapshot description from help menu, since it is currently disabled in the viewer.
 - View Session button now correctly appears for guests.
+- Fixed memory leak issue (pulled from fix in OHIF master).
+
 
 IE 11 Support:
 - Transitioned to meteor-build-client-fixed2 build tool to generate legacy bundles.
